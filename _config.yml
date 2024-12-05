@@ -1,27 +1,26 @@
-# Portfolio
+# Site settings
+title: "My Data Portfolio"
+description: "A showcase of my data projects and visualizations"
+baseurl: "" # the subpath of your site, e.g. /blog
+url: "https://badguyIT.github.io" 
 
-title: BadguyIT
-author:
-  name: Badguy
-description: lưu trữ dự án DA
-baseurl: ""
-url: "https://badguyIT.github.io"
+# Theme settings
+theme: jekyll-theme-cayman
 
-theme: jekyll-theme-cayman # Bạn có thể thay đổi theme tùy ý
-
+# Build settings
 markdown: kramdown
 plugins:
-  - jekyll-feed 
+  - jekyll-feed
+  - jekyll-seo-tag
 
-exclude:
-  - Gemfile
-  - Gemfile.lock
-  - README.md 
+github:
+  is_project_page: true
 
-navigation:
-  - text: "Trang Chủ"
-    url: /
-  - text: "Giới Thiệu"
-    url: /about/
-  - text: "Dự Án"
-    url: /projects/
+# Additional configurations
+paginate: 5
+show_excerpts: true
+
+# Social media links (optional)
+social:
+  github: https://github.com/badguyIT/
+
