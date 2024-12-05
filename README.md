@@ -1,18 +1,18 @@
 # Data Portfolio
 
-Welcome to my portfolio website! This project showcases my work on YouTube data analysis.
+Welcome to my portfolio website! 
 
 ## Project 
 
 Project analyst youtube UK 2024 [here](https://github.com/badguyIT/youtuber_uk).
-- [Download .zip](https://github.com/badguyIT/youtuber_uk/archive/refs/heads/main.zip)
-Objective
+- [Download .zip](https://github.com/badguyIT/youtuber_uk/archive/refs/heads/main.zip).
+Objective:
 -To discover the top performing UK Youtubers to form marketing collaborations with throughout the year 2024.
-Problems identified 
-•	Sharon (the Head of Marketing) has found finding the top YouTube channels in the UK to run marketing campaigns with difficult.
-•	She has performed online research but constantly bumps into overly complicated and conflicting insights
-•	She has also held calls with different third-party providers, but they are all expensive options for underwhelming results
-•	The BI reporting team lack the bandwidth to assist her with this assignment
+Problems identified:
+- Sharon (the Head of Marketing) has found finding the top YouTube channels in the UK to run marketing campaigns with difficult.
+- She has performed online research but constantly bumps into overly complicated and conflicting insights
+-	She has also held calls with different third-party providers, but they are all expensive options for underwhelming results
+-	The BI reporting team lack the bandwidth to assist her with this assignment
 
 
 
