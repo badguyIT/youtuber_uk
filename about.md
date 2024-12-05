@@ -19,11 +19,9 @@ List some of your key skills here, such as:
 - Machine Learning
 - Data Visualization
 - Statistical Modeling
-- Programming in Python, SQL.
+- Programming in Python, R, etc.
 
 ## Contact
 
 Feel free to reach out if you have any questions or feedback!
 - **Email**: [badguyit25@gmail.com](mailto:badguyit25@gmail.com)
-- **LinkedIn**: [your_linkedin_username](https://www.linkedin.com/in/your_linkedin_username)
-- **Twitter**: [your_twitter_handle](https://twitter.com/your_twitter_handle)
