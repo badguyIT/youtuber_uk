@@ -6,7 +6,6 @@ Welcome to my portfolio website! This project showcases my work on YouTube data 
 
 Project analyst youtube UK 2024 [here](https://github.com/badguyIT/youtuber_uk).
 - [Download .zip](https://github.com/badguyIT/youtuber_uk/archive/refs/heads/main.zip)
-- [Download .tar.gz](https://github.com/badguyIT/youtuber_uk/archive/refs/heads/main.tar.gz)
 Objective
 -To discover the top performing UK Youtubers to form marketing collaborations with throughout the year 2024.
 Problems identified 
