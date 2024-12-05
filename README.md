@@ -5,9 +5,6 @@ Welcome to my portfolio website! This project showcases my work on YouTube data 
 ## Project Repository
 
 Project analyst youtube UK 2024 [here](https://github.com/badguyIT/youtuber_uk).
-
-## Download
-
 - [Download .zip](https://github.com/badguyIT/youtuber_uk/archive/refs/heads/main.zip)
 - [Download .tar.gz](https://github.com/badguyIT/youtuber_uk/archive/refs/heads/main.tar.gz)
 
