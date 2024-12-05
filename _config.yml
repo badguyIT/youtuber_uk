@@ -1,26 +1,44 @@
 # Site settings
 title: "My Data Portfolio"
 description: "A showcase of my data projects and visualizations"
-baseurl: "" # the subpath of your site, e.g. /blog
+baseurl: "/youtuber_uk" # thay đổi 'repository-name' thành tên repo của bạn
 url: "https://badguyIT.github.io" 
 
+# Author settings
+author:
+  name: "BadguyIT"
+  email: "badguyIT25@gmail.com"
+  avatar: "assets/images/logo.jpn" 
+
 # Theme settings
-theme: jekyll-theme-cayman
+remote_theme: "mmistakes/minimal-mistakes@4.24.0" 
+plugins:
+  - jekyll-optional-front-matter
+  - jekyll-paginate
+  - jekyll-sitemap
+  - jekyll-gist
+  - jekyll-feed
+  - jekyll-seo-tag
+  - jekyll-avatar
+  - jekyll-include-cache
 
 # Build settings
 markdown: kramdown
-plugins:
-  - jekyll-feed
-  - jekyll-seo-tag
 
-github:
-  is_project_page: true
+# Pagination
+# paginate: 5
+# paginate_path: "/page:num/"
 
-# Additional configurations
-paginate: 5
-show_excerpts: true
-
-# Social media links (optional)
+# Social media links
 social:
-  github: https://github.com/badguyIT/
+  github: https://github.com/badguyIT
 
+
+# Defaults
+defaults:
+  - scope:
+      path: ""
+      type: posts
+    values:
+      layout: single
+      author: [Your Name]
