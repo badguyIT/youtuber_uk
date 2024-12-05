@@ -25,6 +25,11 @@ plugins:
 # Build settings
 markdown: kramdown
 
+links: 
+- title: "Project " 
+  url: "https://github.com/badguyIT/youtuber_uk" 
+  icon: "fab fa-github"
+
 # Pagination
 # paginate: 5
 # paginate_path: "/page:num/"
