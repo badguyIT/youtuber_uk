@@ -1,17 +1,17 @@
 # Site settings
 title: "Data Portfolio"
 description: "This is my portfolio website! 🌟"
-baseurl: "/youtuber_uk"
-url: "https://badguyIT.github.io" 
+baseurl: "/youtuber_uk" # Tên repo của bạn
+url: "https://badguyIT.github.io" # Địa chỉ URL của GitHub Pages
 
 # Author settings
 author:
   name: "badguyIT"
   email: "badguyit25@gmail.com"
-  avatar: "path/to/your/avatar.jpg"
+  avatar: "path/to/your/avatar.jpg" # Đường dẫn tới hình đại diện của bạn
 
 # Theme settings
-remote_theme: "pages-themes/modernist@v0.2.0" 
+remote_theme: "pages-themes/modernist@v0.2.0" # Sử dụng theme Modernist từ GitHub Pages
 plugins:
   - jekyll-optional-front-matter
   - jekyll-paginate
@@ -37,9 +37,7 @@ paginate_path: "/page:num/"
 
 # Social media links
 social:
-  twitter: your_twitter_handle
   github: badguyIT
-  linkedin: your_linkedin_username
 
 # Footer settings
 footer:
