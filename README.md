@@ -1,4 +1,3 @@
-# Data Portfolio
 
 <div class="avatar-container">
   <img src="https://avatars.githubusercontent.com/badguyIT" alt="badguyIT" width="150" height="150">
@@ -22,12 +21,6 @@ Discover insights from YouTube data in the UK. [View Project](https://github.com
 Explore machine learning techniques for predicting heart disease. [View Project](https://github.com/badguyIT/Predicting-Heart-Disease-using-Machine-Learning)
 - [Download .zip](https://github.com/badguyIT/Predicting-Heart-Disease-using-Machine-Learning/archive/refs/heads/main.zip)
 
----
-
-
-## Maintainer
-
-This project is maintained by [badguyIT](https://github.com/badguyIT).
 
 ---
 
