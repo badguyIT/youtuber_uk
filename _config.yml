@@ -10,15 +10,15 @@ username: badguyIT
 email: badguyit25@gmail.com
 avatar: https://avatars.githubusercontent.com/badguyIT
 
-# Header navigation links
-header_links:
-  - title: Home
-    url: /
-  - title: Projects
-    url: /#projects
-  - title: Contact
-    url: /#contact
-
+# Header 
+header: >
+  <div class="avatar-container"> 
+    <img src="{{ site.avatar }}" alt="{{ site.username }}" width="150" height="150"> 
+    <div class="info"> 
+      <strong>Username:</strong> {{ site.username }}<br> 
+      <strong>Email:</strong> <a href="mailto:{{ site.email }}">{{ site.email }}</a> 
+    </div> 
+  </div>
 # Footer settings
 footer: >
   <p>Data Portfolio is maintained by <a href="https://github.com/badguyIT">badguyIT</a>.</p>
