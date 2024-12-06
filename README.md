@@ -4,7 +4,7 @@ Welcome to my portfolio website! Dive into my projects and explore the fascinati
 
 ---
 
-## My Projects
+## My Projects {#projects}
 
 ### YouTube UK Analysis 2024
 Discover insights from YouTube data in the UK. [View Project](https://github.com/badguyIT/youtuber_uk)
@@ -16,7 +16,7 @@ Explore machine learning techniques for predicting heart disease. [View Project]
 
 ---
 
-## Contact
+## Contact {#contact}
 
 Have questions or feedback? Feel free to reach out at [badguyit25@gmail.com](mailto:badguyit25@gmail.com).
 
