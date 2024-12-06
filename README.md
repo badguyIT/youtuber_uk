@@ -1,10 +1,10 @@
 # Data Portfolio
 
 <div class="avatar-container">
-  <img src="{{ site.avatar }}" alt="{{ site.username }}" width="150" height="150">
+  <img src="https://avatars.githubusercontent.com/badguyIT" alt="badguyIT" width="150" height="150">
   <div class="info">
-    <strong>Username:</strong> {{ site.username }}<br>
-    <strong>Email:</strong> <a href="mailto:{{ site.email }}">{{ site.email }}</a>
+    <strong>Username:</strong> badguyIT<br>
+    <strong>Email:</strong> <a href="mailto:badguyit25@gmail.com">badguyit25@gmail.com</a>
   </div>
 </div>
 
