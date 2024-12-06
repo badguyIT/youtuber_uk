@@ -1,4 +1,14 @@
+# Data Portfolio
 
+<div class="avatar-container">
+  <img src="{{ site.avatar }}" alt="{{ site.username }}" width="150" height="150">
+  <div class="info">
+    <strong>Username:</strong> {{ site.username }}<br>
+    <strong>Email:</strong> <a href="mailto:{{ site.email }}">{{ site.email }}</a>
+  </div>
+</div>
+
+Welcome to my portfolio website! Dive into my projects and explore the fascinating world of data analysis and machine learning.
 
 ---
 
