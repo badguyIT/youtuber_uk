@@ -1,12 +1,4 @@
-# Data Portfolio 
-<div class="avatar-container"> 
-  <img src="https://avatars.githubusercontent.com/badguyIT" alt="badguyIT" width="150" height="150"> 
-  <div class="info"> 
-    <strong>Username:</strong> badguyIT<br> 
-    <strong>Email:</strong> <a href="mailto:badguyit25@gmail.com">badguyit25@gmail.com</a> 
-  </div> 
-</div> Welcome to my portfolio website! Dive into my projects and explore the fascinating world of data analysis and machine learning. 
----
+
 
 ---
 
