@@ -1,6 +1,6 @@
 title: Data Portfolio
-description: Welcome to my portfolio website! Dive into my projects and explore the fascinating world of data analysis and machine learning.
-theme: jekyll-theme-minimal
+description: Welcome to my portfolio website! 
+theme: jekyll-theme-hacker
 
 # Repository settings
 repository: badguyIT/youtuber_uk
@@ -10,15 +10,12 @@ username: badguyIT
 email: badguyit25@gmail.com
 avatar: https://avatars.githubusercontent.com/badguyIT
 
-# Header 
-header: >
-  <div class="avatar-container"> 
-    <img src="{{ site.avatar }}" alt="{{ site.username }}" width="150" height="150"> 
-    <div class="info"> 
-      <strong>Username:</strong> {{ site.username }}<br> 
-      <strong>Email:</strong> <a href="mailto:{{ site.email }}">{{ site.email }}</a> 
-    </div> 
-  </div>
+# Header navigation links
+header_links:
+  - title: Home
+    url: https://github.com/badguyIT
+  - title: Projects
+    url: https://github.com/badguyIT/youtuber_uk
 # Footer settings
 footer: >
   <p>Data Portfolio is maintained by <a href="https://github.com/badguyIT">badguyIT</a>.</p>
@@ -52,5 +49,15 @@ custom_css: >
       margin-top: 20px;
       padding-top: 10px;
       border-top: 1px solid #ddd;
+    }
+    .avatar-container {
+      text-align: left;
+      margin-bottom: 20px;
+    }
+    .avatar-container img {
+      border-radius: 50%;
+    }
+    .avatar-container .info {
+      margin-top: 10px;
     }
   </style>
