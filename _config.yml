@@ -1,6 +1,6 @@
 title: Data Portfolio
-description: This is my portfolio website and blog!
-theme: jekyll-theme-cayman
+description: Welcome to my portfolio website! Dive into my projects and explore the fascinating world of data analysis and machine learning.
+theme: jekyll-theme-minimal
 
 # Repository settings
 repository: badguyIT/youtuber_uk
@@ -15,9 +15,9 @@ header_links:
   - title: Home
     url: /
   - title: Projects
-    url: /projects/
+    url: /#projects
   - title: Contact
-    url: /contact/
+    url: /#contact
 
 # Footer settings
 footer: >
@@ -27,6 +27,10 @@ footer: >
 # Custom CSS to style the layout
 custom_css: >
   <style>
+    body {
+      font-family: Arial, sans-serif;
+      line-height: 1.6;
+    }
     .header {
       display: flex;
       align-items: center;
@@ -39,17 +43,10 @@ custom_css: >
     .header div {
       flex-grow: 1;
     }
-    .project-item, .blog-post {
+    .project-item {
       border-bottom: 1px solid #ddd;
       margin-bottom: 20px;
       padding-bottom: 20px;
-    }
-    .post-title {
-      font-size: 24px;
-      font-weight: bold;
-    }
-    .post-content {
-      margin-top: 10px;
     }
     .footer {
       margin-top: 20px;
