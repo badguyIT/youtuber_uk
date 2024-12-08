@@ -5,15 +5,13 @@ author:
   email: "badguyit25@gmail.com"
   url: "https://your-website.com"
 
-baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://badguyIT.github.io" # the base hostname & protocol for your site
 
 avatar: "https://avatars.githubusercontent.com/badguyIT"
 
-theme: minima
+theme: jekyll-theme-cayman
 
 social_links:
-  twitter: your_twitter_handle
   linkedin: "https://www.linkedin.com/in/quang-ng%E1%BB%8Dc-46b38b224/"
   github: "https://github.com/badguyIT/"
   # add more social links as needed
